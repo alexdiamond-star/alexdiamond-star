@@ -19,12 +19,3 @@ __[Shining Path Dashboard (PCP-SL)](https://kaishinlin.shinyapps.io/PCP-SL/)__ i
 * **District Comparisons** — Side-by-side comparison of any two districts across all variables
 * **Data** — Documentation of source datasets (TRC, Sviatschi 2022, INEI 1981) and a live data preview
 * **Literature** — Curated reading list on the Peruvian internal armed conflict and its legacies
-## 🎓 Education
- 
-__[Reed College](https://www.reed.edu/)__ — B.A. in Economics & History *(2023–2027)*
-- Commendation for Excellence in Scholarship, 2023–2024 & 2024–2025
-- Co-Founder of Reed Debate; Finance Club Leader; Student Newspaper Writer
-## 📬 Contact
- 
-- 📧 alexdiamond@reed.edu
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-jeffries-diamond/)
