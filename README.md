@@ -13,7 +13,7 @@ I work as an Economics Research Assistant in Reed College's Economics Department
 
 ## 🗺️ Projects
 __[Shining Path Dashboard (PCP-SL)](https://kaishinlin.shinyapps.io/PCP-SL/)__
-An interactive R Shiny dashboard built to support exploratory research into the geographic distribution of conflict exposure and socioeconomic conditions across Peru. The dashboard was developed collaboratively with Kaishin Lin and Dr. Felipe Carrera, and includes:
+is an interactive R Shiny dashboard built to support exploratory research into the geographic distribution of conflict exposure and socioeconomic conditions across Peru. The dashboard was developed collaboratively with Kaishin Lin and Dr. Felipe Carrera, and includes:
 
 Choropleth Map — Interactive visualization of variables (years of conflict exposure, total deaths, coca suitability, demographic indicators) at district, provincial, and departmental levels using leaflet and geoperu
 Graphs — Histograms and box plots of variable distributions with summary statistics
