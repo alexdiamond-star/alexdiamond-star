@@ -1,4 +1,4 @@
-## Hi, I'm Alex Diamond 👋
+## Hi, I'm Alex!
  
 I'm a college student at the moment, currently a junior at __[Reed College](https://www.reed.edu/)__ (Class of 2027), where I study Economics and History. This summer, I'll be joining __[Berkeley Research Group (BRG)](https://www.thinkbrg.com/)__ as an incoming Economics, Disputes, and Investigations Summer Associate. My research interests include economic history, archival research, GIS and spatial data analysis, and quantitative methods applied to historical questions. Outside of research, I work as a Writing, Academic Skills, and Course Tutor at Reed.
  
